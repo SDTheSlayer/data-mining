@@ -1,5 +1,5 @@
 ### Final Report ###
-https://github.com/annanyapr/data-mining/blob/main/Data_Mining_Final_report.pdf
+https://github.com/SDTheSlayer/data-mining/blob/main/Data_Mining_Final_report.pdf
 
 ### In all the commands replace: ###
 
