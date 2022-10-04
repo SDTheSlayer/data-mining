@@ -1,3 +1,6 @@
+### Final Report ###
+https://github.com/annanyapr/data-mining/blob/main/Data_Mining_Final_report.pdf
+
 ### In all the commands replace: ###
 
 1) TYPE with either GML for .gml file, MATRIX for .txt file having graph as adjacency matrix and LINK for .txt file having graph as undirected edges.
